@@ -7,5 +7,5 @@ Feature: Facebook Login Feature
     Then User should be able to navigate to the facebook home page
     And User validates the home page
     Examples:
-      | username     | password     |
-      | anwesha_dhal | xyzxyzxyzxyz |
+      | username     | password        |
+      | anwesha_dhal | xyzxyzxyzxyzxyz |
